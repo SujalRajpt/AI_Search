@@ -1,0 +1,181 @@
+[
+  {
+    "id": "jules_google",
+    "title": "Jules - An Asynchronous Coding Agent",
+    "description": "Jules is an asynchronous agent that gets out of your way. It lets you focus on the coding you want to do, meawnwhile picking up all the other random tasks that you rather not do.",
+    "tags": [
+      "code",
+      "agent",
+      "jules",
+      "gemini"
+    ],
+    "website": "https://jules.google/"
+  },
+  {
+    "id": "humanizeai_tools",
+    "title": "Humanize AI - Free AI Humanizer & Get 100% Human Score",
+    "description": "Humanize AI serves as a AI Humanizer to humanize text, allowing content to evade AI detection effectively. By employing Humanize AI, you can transform AI-generated text into a more human-like format, thus enhancing its ability to circumvent various AI detectors.",
+    "tags": [
+      "AI Humanizer",
+      "AI detection",
+      "humanize text",
+      "human-like text",
+      "AI-generated text",
+      "AI detection bypass",
+      "humanize AI",
+      "humanize AI text",
+      "humanize AI content",
+      "humanize AI content generator",
+      "humanize AI generator",
+      "humanize AI tool",
+      "humanize AI service",
+      "humanize AI service provider",
+      "humanize AI service provider in India",
+      "humanize AI service provider in India",
+      "humanize AI"
+    ],
+    "website": "https://humanizeai.tools/"
+  },
+  {
+    "id": "imgdb_ai",
+    "title": "AI Images Database: Find Your Perfect Image - ImgDb.Ai",
+    "description": "Dive into our ai images database filled with diverse and captivating visuals, from adorable wildlife to elegant logos.",
+    "tags": [],
+    "website": "https://imgdb.ai/"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "DreamO - a Hugging Face Space by ByteDance",
+    "description": "Generate highly customized images by providing reference images and a descriptive prompt. Users can specify tasks for each reference image like identifying a face, handling an object, or preserving...",
+    "tags": [],
+    "website": "https://huggingface.co/spaces/ByteDance/DreamO"
+  },
+  {
+    "id": "hunyuancustom_github_io",
+    "title": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "description": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "tags": [
+      "Video Generation",
+      "HunyuanVideo",
+      "Multimodal-Driven"
+    ],
+    "website": "https://hunyuancustom.github.io/"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "ACE Step - a Hugging Face Space by ACE-Step",
+    "description": "This application allows you to create music by entering text descriptions. You provide text input, and the app generates corresponding musical compositions. The result is a musical piece that captu...",
+    "tags": [],
+    "website": "https://huggingface.co/spaces/ACE-Step/ACE-Step"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Parakeet-TDT-0.6b-V2 - a Hugging Face Space by nvidia",
+    "description": "Upload or record an audio file to get a transcript with word-level timestamps. Download the results in CSV or SRT format.",
+    "tags": [],
+    "website": "https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2"
+  },
+  {
+    "id": "video-background-remover_com",
+    "title": "Free AI Video Background Remover | Remove Video BG Online",
+    "description": "Remove video backgrounds in seconds with our free AI background remover. No watermark. Online, easy, and works with CapCut, Canva, Adobe Express & more.",
+    "tags": [
+      "video background remover",
+      "background remover video",
+      "ai video background remover",
+      "free video background remover",
+      "video background remover online",
+      "video background remover free",
+      "remove background from video",
+      "best video background remover",
+      "green screen background remover",
+      "capcut video background remover",
+      "canva background remover for videos",
+      "adobe express video background remover",
+      "background remover online video",
+      "online video background remover free",
+      "ai video background remover free"
+    ],
+    "website": "https://video-background-remover.com/"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Qwen3 Demo - a Hugging Face Space by Qwen",
+    "description": "This application allows you to have a conversation by entering messages. It generates responses and maintains chat history, allowing you to manage multiple conversations and edit or regenerate mess...",
+    "tags": [],
+    "website": "https://huggingface.co/spaces/Qwen/Qwen3-Demo"
+  },
+  {
+    "id": "sand_ai",
+    "title": "Magi - Revolutionary AI Video Generation",
+    "description": "The first autoregressive video model with top-tier quality output.Magi is a powerful AI video generator that transforms your ideas into stunning videos for free. Extend videos effortlessly with cutting-edge Generative AI tech!",
+    "tags": [
+      "AI video generation",
+      "AI video creation",
+      "unlimited video extension",
+      "precise video control",
+      "high-quality AI videos",
+      "fast video generation",
+      "Magi by Sand AI"
+    ],
+    "website": "https://sand.ai/magi"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Dia 1.6B - a Hugging Face Space by nari-labs",
+    "description": "This application converts written text into spoken audio. Users can provide text input and an optional audio prompt, and the app will generate audio based on the text, with options to adjust the au...",
+    "tags": [],
+    "website": "https://huggingface.co/spaces/nari-labs/Dia-1.6B"
+  },
+  {
+    "id": "seed_bytedance_com",
+    "title": "ByteDance Seed",
+    "description": "Do great things with great people",
+    "tags": [],
+    "website": "https://seed.bytedance.com/en/tech/seedream3_0"
+  },
+  {
+    "id": "www_notion_com",
+    "title": "Your connected workspace for wiki, docs & projects | Notion",
+    "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.",
+    "tags": [],
+    "website": "https://www.notion.com/product"
+  },
+  {
+    "id": "seaweed_video",
+    "title": "Seaweed",
+    "description": "Seaweed is a video generation foundational model by ByteDance Seed.",
+    "tags": [],
+    "website": "https://seaweed.video/"
+  },
+  {
+    "id": "blog_google",
+    "title": "DolphinGemma: How AI can decipher dolphin communication",
+    "description": "Dolphin researchers are using Gemma and Google Pixel phones to try to decipher how dolphins talk to one another.",
+    "tags": [
+      "None"
+    ],
+    "website": "https://blog.google/technology/ai/dolphingemma/"
+  },
+  {
+    "id": "singify_fineshare_com",
+    "title": "Free AI Music & Song Generator Online | Create Unique Tracks",
+    "description": "Singify AI Music & Song Generator lets you create high-quality music easily. Generate unique music across various genres—perfect for all creators.",
+    "tags": [],
+    "website": "https://singify.fineshare.com/?ref=aixploria"
+  },
+  {
+    "id": "firebase_studio",
+    "title": "Firebase Studio",
+    "description": "Firebase Studio is an entirely web-based workspace for full-stack application development, complete with the latest generative AI from Gemini, and full-fidelity app previews, powered by cloud emulators.",
+    "tags": [],
+    "website": "https://firebase.studio/"
+  },
+  {
+    "id": "google_github_io",
+    "title": "Agent2Agent Protocol (A2A)",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "tags": [],
+    "website": "https://google.github.io/A2A/"
+  }
+]
