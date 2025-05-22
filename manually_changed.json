@@ -1,0 +1,279 @@
+[
+  {
+    "id": "jules_google",
+    "title": "Jules - An Asynchronous Coding Agent",
+    "description": "Jules is an asynchronous agent that gets out of your way. It lets you focus on the coding you want to do, meanwhile picking up all the other random tasks that you rather not do.",
+    "tags": ["code", "agent", "jules", "gemini", "developer tools", "automation", "AI assistant"],
+    "features": ["bug fixing", "dependency updates", "test generation", "async code agent"],
+    "use_cases": ["automating repetitive coding tasks", "improving developer productivity"],
+    "type": "ai_tool",
+    "website": "https://jules.google/"
+  },
+  {
+    "id": "humanizeai_tools",
+    "title": "Humanize AI - Free AI Humanizer & Get 100% Human Score",
+    "description": "Humanize AI serves as a AI Humanizer to humanize text, allowing content to evade AI detection effectively. By employing Humanize AI, you can transform AI-generated text into a more human-like format, thus enhancing its ability to circumvent various AI detectors.",
+    "tags": ["AI humanizer", "text editing", "content tools", "SEO", "humanize text", "AI detection", "AI text", "AI bypass"],
+    "features": ["human-like rewriting", "AI detection bypass", "free tool"],
+    "use_cases": ["improving AI-generated content", "bypassing AI detection", "enhancing SEO content"],
+    "type": "ai_tool",
+    "website": "https://humanizeai.tools/"
+  },
+  {
+    "id": "imgdb_ai",
+    "title": "AI Images Database: Find Your Perfect Image - ImgDb.Ai",
+    "description": "Dive into our AI images database filled with diverse and captivating visuals, from adorable wildlife to elegant logos.",
+    "tags": ["AI images", "image search", "stock photos", "creative", "visual content", "image generator"],
+    "features": ["searchable AI-generated images", "categorized by theme and style", "free download"],
+    "use_cases": ["finding AI-generated visuals", "design inspiration", "content creation"],
+    "type": "ai_tool",
+    "website": "https://imgdb.ai/"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "DreamO - a Hugging Face Space by ByteDance",
+    "description": "Generate highly customized images by providing reference images and a descriptive prompt. Users can specify tasks for each reference image like identifying a face, handling an object, or preserving...",
+    "tags": ["AI art", "image generation", "custom images", "ByteDance", "DreamO", "Hugging Face", "stable diffusion"],
+    "features": ["custom reference image support", "prompt-based generation", "image task control"],
+    "use_cases": ["art generation", "character creation", "image customization"],
+    "type": "ai_tool",
+    "website": "https://huggingface.co/spaces/ByteDance/DreamO"
+  }
+    ,
+  {
+    "id": "hunyuancustom_github_io",
+    "title": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "description": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "tags": [
+      "Video Generation",
+      "HunyuanVideo",
+      "Multimodal-Driven",
+      "Generative AI",
+      "Custom Video",
+      "AI Research",
+      "feature:Customized video generation",
+      "usecase:Generate custom videos from multimodal input"
+    ],
+    "website": "https://hunyuancustom.github.io/",
+    "type": "blog"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "ACE Step - a Hugging Face Space by ACE-Step",
+    "description": "This application allows you to create music by entering text descriptions. You provide text input, and the app generates corresponding musical compositions. The result is a musical piece that captures the essence of your input.",
+    "tags": [
+      "AI Music Generation",
+      "Text-to-Music",
+      "Generative Audio",
+      "Hugging Face Space",
+      "feature:Text-based music creation",
+      "usecase:Generate music from text prompts"
+    ],
+    "website": "https://huggingface.co/spaces/ACE-Step/ACE-Step",
+    "type": "ai_tool"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Parakeet-TDT-0.6b-V2 - a Hugging Face Space by nvidia",
+    "description": "Upload or record an audio file to get a transcript with word-level timestamps. Download the results in CSV or SRT format.",
+    "tags": [
+      "Speech-to-Text",
+      "Audio Transcription",
+      "Word-level Timestamps",
+      "ASR",
+      "NVIDIA",
+      "feature:Audio transcription with timestamps",
+      "usecase:Transcribe spoken audio to text"
+    ],
+    "website": "https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2",
+    "type": "ai_tool"
+  },
+  {
+    "id": "video-background-remover_com",
+    "title": "Free AI Video Background Remover | Remove Video BG Online",
+    "description": "Remove video backgrounds in seconds with our free AI background remover. No watermark. Online, easy, and works with CapCut, Canva, Adobe Express & more.",
+    "tags": [
+      "video background remover",
+      "background remover video",
+      "ai video background remover",
+      "free video background remover",
+      "video background remover online",
+      "video background remover free",
+      "remove background from video",
+      "best video background remover",
+      "green screen background remover",
+      "capcut video background remover",
+      "canva background remover for videos",
+      "adobe express video background remover",
+      "background remover online video",
+      "online video background remover free",
+      "ai video background remover free",
+      "feature:AI-powered video background removal",
+      "usecase:Remove backgrounds from videos quickly and easily"
+    ],
+    "website": "https://video-background-remover.com/",
+    "type": "ai_tool"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Qwen3 Demo - a Hugging Face Space by Qwen",
+    "description": "This application allows you to have a conversation by entering messages. It generates responses and maintains chat history, allowing you to manage multiple conversations and edit or regenerate messages.",
+    "tags": [
+      "Chatbot",
+      "AI Assistant",
+      "Conversational AI",
+      "LLM",
+      "Multiturn Dialogue",
+      "Hugging Face Space",
+      "feature:Interactive AI chat with multiturn memory",
+      "usecase:Test and demo LLM chat capabilities"
+    ],
+    "website": "https://huggingface.co/spaces/Qwen/Qwen3-Demo",
+    "type": "ai_tool"
+  },
+  {
+    "id": "sand_ai",
+    "title": "Magi - Revolutionary AI Video Generation",
+    "description": "The first autoregressive video model with top-tier quality output.Magi is a powerful AI video generator that transforms your ideas into stunning videos for free. Extend videos effortlessly with cutting-edge Generative AI tech!",
+    "tags": [
+      "AI video generation",
+      "AI video creation",
+      "unlimited video extension",
+      "precise video control",
+      "high-quality AI videos",
+      "fast video generation",
+      "Magi by Sand AI",
+      "Generative AI",
+      "feature:Autoregressive high-quality video generation",
+      "usecase:Generate and extend videos using AI"
+    ],
+    "website": "https://sand.ai/magi",
+    "type": "ai_tool"
+  },
+  {
+    "id": "huggingface_co",
+    "title": "Dia 1.6B - a Hugging Face Space by nari-labs",
+    "description": "This application converts written text into spoken audio. Users can provide text input and an optional audio prompt, and the app will generate audio based on the text, with options to adjust the audio properties.",
+    "tags": [
+      "Text-to-Speech",
+      "TTS",
+      "Speech Synthesis",
+      "Voice Cloning",
+      "Generative Audio",
+      "Hugging Face Space",
+      "feature:Text-to-speech with optional voice prompt",
+      "usecase:Convert text into natural-sounding audio"
+    ],
+    "website": "https://huggingface.co/spaces/nari-labs/Dia-1.6B",
+    "type": "ai_tool"
+  },
+  {
+    "id": "seed_bytedance_com",
+    "title": "ByteDance Seed",
+    "description": "Do great things with great people",
+    "tags": [
+      "ByteDance",
+      "AI Research",
+      "Tech Incubator",
+      "Innovation Lab",
+      "feature:Technology incubator by ByteDance",
+      "usecase:Explore cutting-edge AI tools and foundational models"
+    ],
+    "website": "https://seed.bytedance.com/en/tech/seedream3_0",
+    "type": "blog"
+  },
+  {
+    "id": "www_notion_com",
+    "title": "Your connected workspace for wiki, docs & projects | Notion",
+    "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.",
+    "tags": [
+      "Productivity",
+      "Workspace",
+      "Project Management",
+      "Note Taking",
+      "Knowledge Base",
+      "feature:All-in-one collaborative workspace",
+      "usecase:Manage notes, projects, and documentation in one place"
+    ],
+    "website": "https://www.notion.com/product",
+    "type": "product"
+  },
+  {
+    "id": "seaweed_video",
+    "title": "Seaweed",
+    "description": "Seaweed is a video generation foundational model by ByteDance Seed.",
+    "tags": [
+      "Video Generation",
+      "Foundational Model",
+      "ByteDance",
+      "Generative AI",
+      "AI Video",
+      "feature:Foundational model for generative video creation",
+      "usecase:Generate high-quality video content using a pretrained AI model"
+    ],
+    "website": "https://seaweed.video/",
+    "type": "ai_tool"
+  },
+{
+    "id": "blog_google",
+    "title": "DolphinGemma: How AI can decipher dolphin communication",
+    "description": "Dolphin researchers are using Gemma and Google Pixel phones to try to decipher how dolphins talk to one another.",
+    "tags": [
+      "AI in Biology",
+      "Animal Communication",
+      "Dolphin Research",
+      "Machine Learning",
+      "Audio Analysis",
+      "feature:AI-based analysis of dolphin communication",
+      "usecase:Deciphering animal vocalizations using AI"
+    ],
+    "website": "https://blog.google/technology/ai/dolphingemma/",
+    "type": "blog"
+  },
+  {
+    "id": "singify_fineshare_com",
+    "title": "Free AI Music & Song Generator Online | Create Unique Tracks",
+    "description": "Singify AI Music & Song Generator lets you create high-quality music easily. Generate unique music across various genres—perfect for all creators.",
+    "tags": [
+      "AI Music Generation",
+      "Song Generator",
+      "Music Creation",
+      "Generative AI",
+      "feature:AI-powered music and song creation",
+      "usecase:Generate unique songs across genres quickly"
+    ],
+    "website": "https://singify.fineshare.com/?ref=aixploria",
+    "type": "ai_tool"
+  },
+  {
+    "id": "firebase_studio",
+    "title": "Firebase Studio",
+    "description": "Firebase Studio is an entirely web-based workspace for full-stack application development, complete with the latest generative AI from Gemini, and full-fidelity app previews, powered by cloud emulators.",
+    "tags": [
+      "Full-stack Development",
+      "Cloud IDE",
+      "Generative AI",
+      "App Preview",
+      "Gemini AI",
+      "feature:Web-based full-stack development with AI assistance",
+      "usecase:Build and preview applications with AI-powered tools"
+    ],
+    "website": "https://firebase.studio/",
+    "type": "product"
+  },
+  {
+    "id": "google_github_io",
+    "title": "Agent2Agent Protocol (A2A)",
+    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "tags": [
+      "Open Protocol",
+      "Agent Communication",
+      "Interoperability",
+      "Software Architecture",
+      "feature:Protocol for communication between agentic applications",
+      "usecase:Enable interoperability of AI agents and applications"
+    ],
+    "website": "https://google.github.io/A2A/",
+    "type": "blog"
+  }
+]
